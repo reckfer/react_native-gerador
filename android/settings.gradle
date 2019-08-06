@@ -1,0 +1,3 @@
+rootProject.name = 'gerador_senhas'
+
+include ':app'
